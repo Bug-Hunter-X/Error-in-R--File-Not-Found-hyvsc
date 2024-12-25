@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R programming: attempting to read a file that does not exist. The `bug.R` file contains the erroneous code, while `bugSolution.R` provides a corrected version. The error is handled using tryCatch to prevent the script from crashing and provide informative error messages to the user.
